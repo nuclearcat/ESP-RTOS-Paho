@@ -65,8 +65,6 @@ message.retained = 0;
 MQTTPublish(&client, "topic", &message);
 ```
 
-More details at http://www.ba0sh1.com/esp8266-mqtt-rtos
-
 Copyright (c) 2015, Baoshi Zhu. All rights reserved.
 Source code in this project is governed by BSD-style license that can be found in the LICENSE.txt file. 
 
